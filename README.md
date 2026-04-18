@@ -194,11 +194,3 @@ nutriai/
 * Save trained models (joblib)
 * User history tracking
 * Cloud deployment
-
----
-
-## 📄 License
-
-MIT License
-
-
